@@ -74,6 +74,49 @@ A comprehensive education platform built with React that combines AI-powered tut
 npm run build
 ```
 
+## 🌐 Deployment
+
+### Deploy to Vercel (Recommended)
+1. **Install Vercel CLI**
+   ```bash
+   npm i -g vercel
+   ```
+
+2. **Deploy**
+   ```bash
+   vercel
+   ```
+
+3. **Add Custom Domain**
+   - Go to your Vercel dashboard
+   - Select your project
+   - Go to Settings → Domains
+   - Add your .tech domain
+
+### Deploy to Netlify
+1. **Build the project**
+   ```bash
+   npm run build
+   ```
+
+2. **Deploy**
+   - Drag the `dist` folder to [netlify.com](https://netlify.com)
+   - Or connect your GitHub repository for auto-deployment
+
+3. **Add Custom Domain**
+   - Go to Site Settings → Domain Management
+   - Add your .tech domain
+
+### Custom Domain Setup
+1. **DNS Configuration**
+   - Point your .tech domain to your hosting provider
+   - For Vercel: Add CNAME record pointing to `cname.vercel-dns.com`
+   - For Netlify: Add CNAME record pointing to your Netlify subdomain
+
+2. **HTTPS**
+   - Both Vercel and Netlify provide automatic HTTPS
+   - SSL certificates are generated automatically
+
 ## 📁 Project Structure
 
 ```
