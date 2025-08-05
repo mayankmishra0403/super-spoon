@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test-domain": "node test-domain.js",
+    "deploy": "npm run build && echo 'Build complete! Ready for deployment.'"
   },
   "dependencies": {
     "react": "^18.2.0",
