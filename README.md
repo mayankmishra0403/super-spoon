@@ -1,8 +1,8 @@
-# 🎓 EduPlatform - Complete Learning Solution
+# 🎓 EduNova - Complete Learning Solution
 
 A comprehensive education platform built with React that combines AI-powered tutoring, academic resources, placement assistance, and competitive programming opportunities all in one place.
 
-![EduPlatform](https://img.shields.io/badge/React-18.2.0-blue)
+![EduNova](https://img.shields.io/badge/React-18.2.0-blue)
 ![Vite](https://img.shields.io/badge/Vite-4.4.5-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 

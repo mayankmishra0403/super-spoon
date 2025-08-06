@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>EduPlatform</h3>
+            <h3>EduNova</h3>
             <p>Your complete learning solution with AI-powered tutoring, comprehensive academics, placement assistance, and competitive programming.</p>
           </div>
           <div className="footer-section">
@@ -21,7 +21,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 EduPlatform. All rights reserved.</p>
+          <p>&copy; 2024 EduNova. All rights reserved.</p>
         </div>
       </div>
     </footer>

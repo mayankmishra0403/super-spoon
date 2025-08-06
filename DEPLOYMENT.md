@@ -1,6 +1,6 @@
-# 🚀 EduPlatform Deployment Guide
+# 🚀 EduNova Deployment Guide
 
-This guide will help you deploy your EduPlatform to your custom .tech domain using various hosting platforms.
+This guide will help you deploy your EduNova to your custom .tech domain using various hosting platforms.
 
 ## 🌟 Quick Deployment Options
 

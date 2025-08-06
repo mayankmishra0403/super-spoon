@@ -116,8 +116,8 @@ const FAQ = () => {
       questions: [
         {
           id: "general-1",
-          question: "What is EduPlatform?",
-          answer: "EduPlatform is a comprehensive learning solution that combines AI-powered tutoring, academic resources, placement assistance, and competitive programming opportunities all in one platform. We help students achieve their educational and career goals through personalized learning experiences."
+          question: "What is EduNova?",
+          answer: "EduNova is a comprehensive learning solution that combines AI-powered tutoring, academic resources, placement assistance, and competitive programming opportunities all in one platform. We help students achieve their educational and career goals through personalized learning experiences."
         },
         {
           id: "general-2",
@@ -126,13 +126,13 @@ const FAQ = () => {
         },
         {
           id: "general-3",
-          question: "Is EduPlatform free to use?",
+          question: "Is EduNova free to use?",
           answer: "We offer both free and premium features. Basic access to courses, AI tutoring, and job listings is free. Premium features include advanced AI tutoring, exclusive courses, priority placement assistance, and premium competition access."
         },
         {
           id: "general-4",
-          question: "What devices can I use to access EduPlatform?",
-          answer: "EduPlatform is fully responsive and works on all devices including desktop computers, laptops, tablets, and smartphones. You can access your learning materials anywhere, anytime."
+          question: "What devices can I use to access EduNova?",
+          answer: "EduNova is fully responsive and works on all devices including desktop computers, laptops, tablets, and smartphones. You can access your learning materials anywhere, anytime."
         }
       ]
     },
@@ -250,7 +250,7 @@ const FAQ = () => {
           <div className="faq-hero-content">
             <h1>Frequently Asked Questions</h1>
             <p>
-              Find answers to common questions about EduPlatform.
+              Find answers to common questions about EduNova.
               Can't find what you're looking for? Contact our support team.
             </p>
 

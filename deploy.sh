@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# EduPlatform Deployment Script
+# EduNova Deployment Script
 # This script helps you deploy your education platform quickly
 
-echo "🎓 EduPlatform Deployment Helper"
+echo "🎓 EduNova Deployment Helper"
 echo "================================"
 
 # Check if we're in the right directory

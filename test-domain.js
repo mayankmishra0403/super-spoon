@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Domain Testing Script for EduPlatform
+ * Domain Testing Script for EduNova
  * Tests if your .tech domain is properly configured
  */
 
@@ -72,7 +72,7 @@ function testDomain(domain) {
 }
 
 async function runTests() {
-  log(colors.blue, '🎓 EduPlatform Domain Tester');
+  log(colors.blue, '🎓 EduNova Domain Tester');
   log(colors.blue, '============================');
   
   const domain = process.argv[2];

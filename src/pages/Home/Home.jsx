@@ -9,7 +9,7 @@ const Home = () => {
           <div className="hero-content">
             <h1 className="hero-title">
               Transform Your Learning Journey with
-              <span className="gradient-text"> EduPlatform</span>
+              <span className="gradient-text"> EduNova</span>
             </h1>
             <p className="hero-description">
               Experience the future of education with AI-powered tutoring, comprehensive academics, 
